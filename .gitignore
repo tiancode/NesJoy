@@ -1,0 +1,41 @@
+lt application files
+*.apk
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.DS_Store
+
+
+# Log Files
+*.log
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.o.d
+*.obj
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+
+# Executables
+*.exe
+*.out
+*.app
+
+
