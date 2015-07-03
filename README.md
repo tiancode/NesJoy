@@ -5,7 +5,7 @@ These emulator is under developing
 
 ### Screenshots
 ![Screenshots](https://github.com/tiancode/NesJoy/blob/master/screenshot/Screen%20Shot%202015-07-03%20at%2011.25.19%20AM.png)
-
+![Screenshots](https://github.com/tiancode/NesJoy/blob/master/screenshot/Screen%20Shot%202015-07-03%20at%2011.25.30%20AM.png)
 
 ### Dependencies
 cocos2d-x
